@@ -1,0 +1,137 @@
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+Traceback (most recent call last):
+  File "/Users/haruaki/reservation_monitor/monitor/monitor.py", line 2, in <module>
+    import requests
+ModuleNotFoundError: No module named 'requests'
+ページが更新されました！
+ページが更新されました！
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+ページが更新されました！
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
+変更なし
